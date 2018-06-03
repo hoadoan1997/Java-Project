@@ -1,4 +1,2 @@
 # Address-Management
-Project Address-Management. Features of Project :
-_ Read and write Excel File in Java
-_ Heap sort, Insert, Delete, Search, Merge,...
+Features of Project : Read and write Excel File in Java, Heap sort, Insert, Delete, Search, Merge,...This project is Java code. You can manage address by my project.
